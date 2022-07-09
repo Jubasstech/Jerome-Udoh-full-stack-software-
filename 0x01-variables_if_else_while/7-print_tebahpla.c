@@ -8,7 +8,6 @@
 */
 int main(void)
 {
-int d;
 char low;
 for (low = 'z'; low >= 'a'; low--)
 putchar(low);
