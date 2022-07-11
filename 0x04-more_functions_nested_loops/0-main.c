@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* main - check the code for Jerome Udoh in task 0x04-more_functions_nested_loops.
+* main - check the code for Jerome
 *
 * Return: Always 0.
 */
