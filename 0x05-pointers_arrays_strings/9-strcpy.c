@@ -13,5 +13,4 @@ for (; src[i] != '\0'; i++)
 dest[i] = src[i];
 }
 return (dest);
-*#jerome
 }
