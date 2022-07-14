@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
   * _strncpy - Copy a string
@@ -22,4 +21,13 @@ while (a < n && src[a])
 {
 dest[a] = src[a];
 a++;
+}
+
+while (a < n)
+{
+dest[a] = '\0';
+a++;
+}
+
+return (dest);
 }
